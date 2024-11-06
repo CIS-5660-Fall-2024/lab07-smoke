@@ -589,10 +589,10 @@
     "m_Guid": {
         "m_GuidSerialized": "7e012c42-6e95-4c54-886d-f936ea097114"
     },
-    "m_Name": "Noise Scale 32",
+    "m_Name": "Noise Scale 3",
     "m_DefaultRefNameVersion": 1,
-    "m_RefNameGeneratedByDisplayName": "Noise Scale 32",
-    "m_DefaultReferenceName": "_Noise_Scale_32",
+    "m_RefNameGeneratedByDisplayName": "Noise Scale 3",
+    "m_DefaultReferenceName": "_Noise_Scale_3",
     "m_OverrideReferenceName": "",
     "m_GeneratePropertyBlock": true,
     "m_UseCustomSlotLabel": false,
@@ -602,7 +602,7 @@
     "overrideHLSLDeclaration": false,
     "hlslDeclarationOverride": 0,
     "m_Hidden": false,
-    "m_Value": 1.0,
+    "m_Value": 0.5,
     "m_FloatType": 0,
     "m_RangeValues": {
         "x": 0.0,
@@ -1319,10 +1319,10 @@
     "m_Guid": {
         "m_GuidSerialized": "a278940c-0c38-4510-a9a0-95dcb980a291"
     },
-    "m_Name": "Noise Scale 16",
+    "m_Name": "Noise Scale 2",
     "m_DefaultRefNameVersion": 1,
-    "m_RefNameGeneratedByDisplayName": "Noise Scale 16",
-    "m_DefaultReferenceName": "_Noise_Scale_16",
+    "m_RefNameGeneratedByDisplayName": "Noise Scale 2",
+    "m_DefaultReferenceName": "_Noise_Scale_2",
     "m_OverrideReferenceName": "",
     "m_GeneratePropertyBlock": true,
     "m_UseCustomSlotLabel": false,
@@ -2830,7 +2830,7 @@
     "m_StageCapability": 3,
     "m_BareResource": false,
     "m_Texture": {
-        "m_SerializedTexture": "{\"texture\":{\"fileID\":2800000,\"guid\":\"4ef1bd19757fcc44bb86fce329804d8c\",\"type\":3}}",
+        "m_SerializedTexture": "{\"texture\":{\"fileID\":2800000,\"guid\":\"57d5128c5fb66bb4690e9fbcd29fe273\",\"type\":3}}",
         "m_Guid": ""
     },
     "m_DefaultType": 0
@@ -3001,7 +3001,7 @@
     "m_Type": "UnityEditor.ShaderGraph.Vector1MaterialSlot",
     "m_ObjectId": "c6de072e0ce64382b9c9829e8b5eb9bc",
     "m_Id": 0,
-    "m_DisplayName": "Noise Scale 8",
+    "m_DisplayName": "Noise Scale 1",
     "m_SlotType": 1,
     "m_Hidden": false,
     "m_ShaderOutputName": "Out",
@@ -3221,10 +3221,10 @@
     "m_Guid": {
         "m_GuidSerialized": "55860947-4f7d-4093-b225-a87dbc886794"
     },
-    "m_Name": "Noise Scale 8",
+    "m_Name": "Noise Scale 1",
     "m_DefaultRefNameVersion": 1,
-    "m_RefNameGeneratedByDisplayName": "Noise Scale 8",
-    "m_DefaultReferenceName": "_Noise_Scale_8",
+    "m_RefNameGeneratedByDisplayName": "Noise Scale 1",
+    "m_DefaultReferenceName": "_Noise_Scale_1",
     "m_OverrideReferenceName": "",
     "m_GeneratePropertyBlock": true,
     "m_UseCustomSlotLabel": false,
@@ -3234,7 +3234,7 @@
     "overrideHLSLDeclaration": false,
     "hlslDeclarationOverride": 0,
     "m_Hidden": false,
-    "m_Value": 1.0,
+    "m_Value": 5.0,
     "m_FloatType": 0,
     "m_RangeValues": {
         "x": 0.0,
@@ -3379,7 +3379,7 @@
     "m_Type": "UnityEditor.ShaderGraph.Vector1MaterialSlot",
     "m_ObjectId": "ea2a2661e4fa498cabfdff6c8f2ad091",
     "m_Id": 0,
-    "m_DisplayName": "Noise Scale 16",
+    "m_DisplayName": "Noise Scale 2",
     "m_SlotType": 1,
     "m_Hidden": false,
     "m_ShaderOutputName": "Out",
@@ -3583,7 +3583,7 @@
     "m_StageCapability": 3,
     "m_BareResource": false,
     "m_Texture": {
-        "m_SerializedTexture": "{\"texture\":{\"fileID\":2800000,\"guid\":\"57d5128c5fb66bb4690e9fbcd29fe273\",\"type\":3}}",
+        "m_SerializedTexture": "{\"texture\":{\"fileID\":2800000,\"guid\":\"1d92a48f77268294aa69f39aaab43530\",\"type\":3}}",
         "m_Guid": ""
     },
     "m_DefaultType": 0
@@ -3594,7 +3594,7 @@
     "m_Type": "UnityEditor.ShaderGraph.Vector1MaterialSlot",
     "m_ObjectId": "fa93e336de094bde8d9d03c7f697aa92",
     "m_Id": 0,
-    "m_DisplayName": "Noise Scale 32",
+    "m_DisplayName": "Noise Scale 3",
     "m_SlotType": 1,
     "m_Hidden": false,
     "m_ShaderOutputName": "Out",
