@@ -5,6 +5,8 @@ a smoke shader based on [this presentation](https://youtu.be/aYZEmaQUrAo?t=22m11
 ## Results
 ![](smoke.gif)
 
+![](smoke1.gif)
+
 ![](smoke2.gif)
 
 ## Introduction
