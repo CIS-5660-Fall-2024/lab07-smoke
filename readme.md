@@ -4,7 +4,7 @@ a smoke shader based on [this presentation](https://youtu.be/aYZEmaQUrAo?t=22m11
 
 ## Smoke Gif
 
-<img width="500px" src="https://github.com/jeff-mostyn/hw04-stylization/blob/main/Renders/stylizationStillRender.png?raw=true" />
+<img width="500px" src="https://github.com/jeff-mostyn/lab07-smoke/blob/main/smokin.gif" />
 
 ## Extra Credit:
  * Make the smoke follow the motion of the cylinder's base
