@@ -3,7 +3,7 @@ Let's continue practicing with Unity's shader graph to make
 a smoke shader based on [this presentation](https://youtu.be/aYZEmaQUrAo?t=22m11s) by Simon Trumpler.
 
 ## Final Result
-https://github.com/user-attachments/assets/94c441be-85e2-436b-ab76-4c4272c967b0
+https://github.com/user-attachments/assets/8b2a4eb2-c074-4bac-be47-ca54503bd737
 
 ## Introduction
 ![](smoke.PNG)
