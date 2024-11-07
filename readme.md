@@ -1,6 +1,10 @@
-# Lab 07 - Smoke with Unity's Shader Graph
+# Lab 07 - Smoke with Unity's Shader Graph : Lewis Ghrist
 Let's continue practicing with Unity's shader graph to make
 a smoke shader based on [this presentation](https://youtu.be/aYZEmaQUrAo?t=22m11s) by Simon Trumpler.
+
+## MY SMOKE
+
+![magic](LG smoke lab - SampleScene - Windows, Mac, Linux - Unity 2022.3.16f1_ _DX11_ 2024-11-06 21-35-39.gif)
 
 ## Introduction
 ![](smoke.PNG)
