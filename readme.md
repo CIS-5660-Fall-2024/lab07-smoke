@@ -2,8 +2,9 @@
 Let's continue practicing with Unity's shader graph to make
 a smoke shader based on [this presentation](https://youtu.be/aYZEmaQUrAo?t=22m11s) by Simon Trumpler.
 
-## Introduction
-![](smoke.PNG)
+## Joyce Chen and Katherine Li Smoke
+![ScreenRecording2024-11-06at9 43 49PM-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/11c19fe5-3dc4-419f-a499-ee8bcc323c28)
+
 
 You will create a Unity project and make within it a Shader Graph
 shader to turn a cylinder mesh into a cloud of smoke.
