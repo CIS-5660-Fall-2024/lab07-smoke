@@ -93,14 +93,14 @@ Material:
     - _BUILTIN_QueueControl: 0
     - _BUILTIN_QueueOffset: 0
     - _BumpScale: 1
-    - _CurAngle: 17.11559
+    - _CurAngle: 626.31055
     - _Cutoff: 0.5
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
     - _GlossMapScale: 1
     - _Glossiness: 0.5
     - _GlossyReflections: 1
-    - _Lag: 0
+    - _Lag: 10
     - _LagLen: 1
     - _Metallic: 0
     - _Mode: 0
