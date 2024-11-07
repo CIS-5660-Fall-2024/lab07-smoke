@@ -2,6 +2,13 @@
 Let's continue practicing with Unity's shader graph to make
 a smoke shader based on [this presentation](https://youtu.be/aYZEmaQUrAo?t=22m11s) by Simon Trumpler.
 
+## Results
+Smoke
+![](./demo.gif)
+
+Smoke top view
+![](./demo2.gif)
+
 ## Introduction
 ![](smoke.PNG)
 
