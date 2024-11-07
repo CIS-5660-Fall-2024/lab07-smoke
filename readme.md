@@ -4,7 +4,7 @@ a smoke shader based on [this presentation](https://youtu.be/aYZEmaQUrAo?t=22m11
 
 ## MY SMOKE
 
-![magic](Smoke.gif.gif)
+![magic](Smoke.gif)
 
 ## Introduction
 ![](smoke.PNG)
