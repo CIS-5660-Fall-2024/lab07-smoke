@@ -1,3 +1,8 @@
+
+![smoke](https://github.com/user-attachments/assets/f5a1252e-d73e-4e01-8b42-abe40d4e0a38)
+
+
+
 # Lab 07 - Smoke with Unity's Shader Graph
 Let's continue practicing with Unity's shader graph to make
 a smoke shader based on [this presentation](https://youtu.be/aYZEmaQUrAo?t=22m11s) by Simon Trumpler.
